@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application android:hasCode="false"
+        android:label="aaa"
+        tools:ignore="MissingApplicationIcon" />
+
+
+    <overlay
+        android:targetPackage="dev.luisamartins.androidrro"
+        android:targetName="OverlayableResources"/>
+</manifest>

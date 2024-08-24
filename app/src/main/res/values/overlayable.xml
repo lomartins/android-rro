@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <overlayable name="OverlayableResources">
+        <policy type="public">
+            <item type="string" name="main_text"/>
+        </policy>
+    </overlayable>
+</resources>
